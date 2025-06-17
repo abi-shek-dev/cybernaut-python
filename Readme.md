@@ -1,15 +1,14 @@
 
 # 🤖 cybernaut-python
 
-**cybernaut-python** is a lightweight Python toolkit designed for automating and streamlining cybersecurity tasks.
+**cybernaut-python** is a repo for solution to the daily assignments given by cybernaut.
 
 ---
 
 ## 🚀 Features
 
-- 🔍 Basic scanning utilities  
-- 🧠 Automated report generation  
-- 🛡️ Simple threat-detection helper functions  
+- 🔍 Daily progress of Python
+
 
 *(Adjust this list based on your actual tools or scripts.)*
 
@@ -18,7 +17,7 @@
 ## 🧰 Tech Stack
 
 - **Python 3**  
-- Uses only standard library modules (no external dependencies)
+- Uses also imported library modules
 
 ---
 
@@ -39,15 +38,6 @@
 
 ---
 
-## 📂 Project Structure
-
-```
-cybernaut-python/
-├── scanner.py
-├── analyzer.py
-├── report_generator.py
-└── README.md
-```
 
 *(Update the structure to match your actual files.)*
 
