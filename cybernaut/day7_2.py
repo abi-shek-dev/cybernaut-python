@@ -1,0 +1,7 @@
+x={5,6,7,8,11,15,2,5,6,5}
+y={5,4,8,6,1,2,5,9,44,5,6,8,11,5,2,6,5,7}
+
+print(x)
+print(y)
+print("Difference of these two sets are (x-y): ",x-y)
+print("Difference of these two sets are (y-x): ",y-x)
