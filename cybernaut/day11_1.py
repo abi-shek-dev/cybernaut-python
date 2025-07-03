@@ -1,4 +1,4 @@
-filename = "student_data.txt"
+filename = "/cybernaut/student_data.txt"
 
 num_students = int(input("Enter the number of students: "))
 
