@@ -1,0 +1,7 @@
+Name		Marks
+--------------------
+abishek		98
+akshayath		78
+stefin		88
+delwise		45
+hari		75
