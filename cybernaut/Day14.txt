@@ -1,0 +1,39 @@
+1. Steps involved in creating a proper workspace:
+
+1. Create a project folder.
+2. Initialize a virtual environment using: `python -m venv .venv`
+3. Activate the environment:
+   - Windows: `.venv\Scripts\activate`
+   - macOS/Linux: `source .venv/bin/activate`
+4. Install required libraries using pip.
+5. Create separate folders for scripts, data, and notebooks if needed.
+6. Use a version control system (like Git).
+
+2. What is web scraping:
+
+Web scraping is an automated method to extract data from websites. 
+It involves fetching the HTML content and parsing the data you need.
+
+3. What library is used for web scraping:
+
+- `BeautifulSoup` (for parsing HTML)
+- `requests` (for fetching webpages)
+Other options: `Selenium`, `Scrapy`
+
+4. Describe HTML tree structure:
+
+HTML documents are structured in a tree format known as the DOM (Document Object Model):
+- Root: <html>
+  - <head>
+    - <title>
+  - <body>
+    - <div>
+      - <p>, <a>, <img> (nested elements)
+Each element is a "node" and can contain children.
+
+
+5. Importance of .venv:
+
+- `.venv` (virtual environment) isolates project dependencies.
+- Prevents version conflicts between projects.
+- Keeps your global Python environment clean.

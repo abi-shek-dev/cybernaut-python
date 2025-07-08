@@ -1,0 +1,36 @@
+1. Steps involved in creating API:
+
+1. Choose a web framework (like Flask or FastAPI).
+2. Define routes (endpoints).
+3. Write functions to handle requests.
+4. Return responses in JSON format.
+5. Test using tools like Postman.
+6. Deploy using platforms like Heroku or Render.
+
+2. What are the methods and their usage:
+
+- GET: Retrieve data from server
+- POST: Send new data to server
+- PUT: Update existing data
+- DELETE: Remove data
+
+3. What is GitHub and why we use it:
+
+GitHub is a cloud-based platform for hosting code using Git.
+Uses:
+- Version control
+- Collaboration
+- Backup and sharing
+- Open source contribution
+
+4. What API does:
+
+API (Application Programming Interface) allows two applications to communicate.
+It exposes endpoints to request or manipulate data.
+Example: Weather API provides temperature data when requested.
+
+5. What library you use for creating API:
+
+- Flask (simple and lightweight)
+- FastAPI (modern, high performance)
+- Django REST framework (for Django-based apps)
