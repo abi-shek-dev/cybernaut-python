@@ -46,7 +46,7 @@ def main():
             if 0 <= index < len(tasks):
                 tasks[index] += " ✅"
             else:
-                print("Invalid index.")
+                prin    t("Invalid index.")
         elif choice == "5":
             save_tasks(tasks)
             print("Tasks saved. Exiting...")
